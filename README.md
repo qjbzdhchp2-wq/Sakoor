@@ -1,5 +1,3 @@
-# CSE233 - Operating Systems - Assignment 2
-
 ## Basic forks and C Style Development
 
 This repository contains the solution for Assignment 2 of the CSE233 Operating Systems course. The assignment focuses on fundamental concepts of process management using the `fork()` system call in C, as well as understanding the roles of the Linker and Loader.
